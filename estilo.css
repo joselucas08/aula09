@@ -1,0 +1,12 @@
+div{
+    display: flex;
+}
+
+aside{
+    flex:2;
+}
+
+main{
+    flex: 6;
+}
+
